@@ -1,0 +1,15 @@
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Exemple_3\obj\Debug\net6.0\Exemple_3.csproj.AssemblyReference.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Exemple_3\obj\Debug\net6.0\Exemple_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Exemple_3\obj\Debug\net6.0\Exemple_3.AssemblyInfoInputs.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Exemple_3\obj\Debug\net6.0\Exemple_3.AssemblyInfo.cs
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Exemple_3\obj\Debug\net6.0\Exemple_3.csproj.CoreCompileInputs.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Exemple_3\bin\Debug\net6.0\Exemple_3.exe
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Exemple_3\bin\Debug\net6.0\Exemple_3.deps.json
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Exemple_3\bin\Debug\net6.0\Exemple_3.runtimeconfig.json
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Exemple_3\bin\Debug\net6.0\Exemple_3.dll
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Exemple_3\bin\Debug\net6.0\Exemple_3.pdb
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Exemple_3\obj\Debug\net6.0\Exemple_3.dll
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Exemple_3\obj\Debug\net6.0\refint\Exemple_3.dll
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Exemple_3\obj\Debug\net6.0\Exemple_3.pdb
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Exemple_3\obj\Debug\net6.0\Exemple_3.genruntimeconfig.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Exemple_3\obj\Debug\net6.0\ref\Exemple_3.dll
