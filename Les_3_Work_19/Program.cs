@@ -7,9 +7,9 @@
 void getResultFromPolindrom (int userNumber)
 {
     int newUser = ((userNumber/10) % 1000);
-    if (userNumber/10000 != userNumber % 10) Console.WriteLine ($"НЕТ");
-    else if ((newUser % 10) != (newUser / 100)) Console.WriteLine ($"НЕТ");
-        else Console.WriteLine ($"ДА");
+    if (userNumber/10000 != userNumber % 10) Console.WriteLine ($"ЧИСЛО НЕ ПАЛИНДРОМ");
+    else if ((newUser % 10) != (newUser / 100)) Console.WriteLine ($"ЧИСЛО НЕ ПАЛИНДРОМ");
+        else Console.WriteLine ($"ЧИСЛО ПАЛИНДРОМ");
 }
 Console.WriteLine ("Введите число:");
 int userNumber1 = Convert.ToInt32 (Console.ReadLine());
