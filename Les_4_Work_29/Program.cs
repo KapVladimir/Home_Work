@@ -9,7 +9,7 @@ void getNumberForArray (int [] arr)
     for (int i = 0; i < arr.GetLength(0); i++)
     {
         arr [i] = new Random().Next(1,99);
-        Console.Write ($"{arr [i]}, ");
+        Console.Write ($"{arr [i]} ");
     }
 }
 
