@@ -3,9 +3,9 @@
 [3 7 22 2 78] -> 76
 */
 
-string getSumTwoFromArray (double [] arr)
+string getMinMaxMinusFromArray (double [] arr)
 {
-        double minNumber = 100;
+        double minNumber = 1000;
         double maxNumber = 0;
    for (int i = 0; i < arr.GetLength(0); i++)
     {
@@ -35,6 +35,6 @@ Console.Write ("Введите длину массива: ");
 int userArray = Convert.ToInt32(Console.ReadLine());
 double [] resultArr = new double [userArray];
 Console.Write ("Элементы массива >> ");
-string result = getSumTwoFromArray (resultArr);
+string result = getMinMaxMinusFromArray (resultArr);
 Console.WriteLine();
 Console.Write (result);

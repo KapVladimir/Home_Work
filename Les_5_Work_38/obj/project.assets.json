@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vladi\\OneDrive\\Рабочий стол\\Gb\\3_C#\\Les_5_Work_39\\Les_5_Work_39.csproj",
+      "projectUniqueName": "C:\\Users\\Vladi\\OneDrive\\Рабочий стол\\Gb\\3_C#\\Les_5_Work_38\\Les_5_Work_39.csproj",
       "projectName": "Les_5_Work_39",
-      "projectPath": "C:\\Users\\Vladi\\OneDrive\\Рабочий стол\\Gb\\3_C#\\Les_5_Work_39\\Les_5_Work_39.csproj",
+      "projectPath": "C:\\Users\\Vladi\\OneDrive\\Рабочий стол\\Gb\\3_C#\\Les_5_Work_38\\Les_5_Work_39.csproj",
       "packagesPath": "C:\\Users\\Vladi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vladi\\OneDrive\\Рабочий стол\\Gb\\3_C#\\Les_5_Work_39\\obj\\",
+      "outputPath": "C:\\Users\\Vladi\\OneDrive\\Рабочий стол\\Gb\\3_C#\\Les_5_Work_38\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vladi\\AppData\\Roaming\\NuGet\\NuGet.Config"
