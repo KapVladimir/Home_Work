@@ -30,4 +30,3 @@ string GetNumber (int userNumber1)
 string result = GetNumber (userNumber1);
 
 Console.WriteLine (result);
-
