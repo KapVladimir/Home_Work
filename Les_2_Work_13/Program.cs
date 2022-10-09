@@ -7,11 +7,11 @@
 Console.WriteLine ("Введите число");
 int userNumber1 = Convert.ToInt32(Console.ReadLine());
 
-int GetNumber (int userNumber1)
+string GetNumber (int userNumber1)
 {   
     int newNumber = userNumber1;
     int newSet =0 ;
-     int newResult =0 ;
+    string newResult = String.Empty;
     for (int i = 0; i < 2; i++)
     {
         newNumber = newNumber / 10;
@@ -19,25 +19,15 @@ int GetNumber (int userNumber1)
         newSet = (newNumber% 10);
     }
 
-    if (newSet > 0)
-    {newResult = newSet;
-    }
+    if (newSet > 0) newResult = $"{newSet}";
     else
-    if (newSet==0 && userNumber1 > 999)
-    {newResult = newSet;
-    }
+    if (newSet==0 && userNumber1 > 999) newResult = $"{newSet}";
     else
-    newResult = -1;
-    
+    newResult = $"НЕТ ТРЕТЬЕГО ЧИСЛА";
     return (newResult);
 }
 
+string result = GetNumber (userNumber1);
 
-int result = GetNumber (userNumber1);
-
-if (result >= 0)
-{Console.WriteLine ($"ТРЕТЬЕ ЧИСЛО {result}");
-}
-else
-Console.WriteLine ($"НЕТ ТРЕТЬЕГО ЧИСЛА");
+Console.WriteLine (result);
 
