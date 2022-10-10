@@ -1,0 +1,15 @@
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_5_Work_37\bin\Debug\net6.0\Les_5_Work_37.exe
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_5_Work_37\bin\Debug\net6.0\Les_5_Work_37.deps.json
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_5_Work_37\bin\Debug\net6.0\Les_5_Work_37.runtimeconfig.json
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_5_Work_37\bin\Debug\net6.0\Les_5_Work_37.dll
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_5_Work_37\bin\Debug\net6.0\Les_5_Work_37.pdb
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_5_Work_37\obj\Debug\net6.0\Les_5_Work_37.csproj.AssemblyReference.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_5_Work_37\obj\Debug\net6.0\Les_5_Work_37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_5_Work_37\obj\Debug\net6.0\Les_5_Work_37.AssemblyInfoInputs.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_5_Work_37\obj\Debug\net6.0\Les_5_Work_37.AssemblyInfo.cs
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_5_Work_37\obj\Debug\net6.0\Les_5_Work_37.csproj.CoreCompileInputs.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_5_Work_37\obj\Debug\net6.0\Les_5_Work_37.dll
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_5_Work_37\obj\Debug\net6.0\refint\Les_5_Work_37.dll
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_5_Work_37\obj\Debug\net6.0\Les_5_Work_37.pdb
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_5_Work_37\obj\Debug\net6.0\Les_5_Work_37.genruntimeconfig.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_5_Work_37\obj\Debug\net6.0\ref\Les_5_Work_37.dll
