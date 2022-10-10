@@ -7,26 +7,20 @@ string getMinMaxMinusFromArray (double [] arr)
 {
         double minNumber = 1000;
         double maxNumber = 0;
-   for (int i = 0; i < arr.GetLength(0); i++)
+   for (int i = 0; i < arr.Length; i++)
     {
         arr [i] = new Random().Next(1,1000);
         Console.Write ($"{arr [i]/10} ");
         if (maxNumber > arr [i]/10)
         {
-            maxNumber = maxNumber;
+            if (minNumber > arr [i]/10)
+            {
+                minNumber = arr [i]/10;
+            }
         }
         else
         {
             maxNumber = arr [i]/10;
-        }
-        
-        if (minNumber < arr [i]/10)
-        {
-            minNumber = minNumber;
-        }
-        else
-        {
-            minNumber = arr [i]/10;
         }
     }
     return ($"-Минимальный элемент массива: {minNumber} \n-Максимальный элемент массива: {maxNumber} \nРазница между элементами: {maxNumber - minNumber,0:F1}");
