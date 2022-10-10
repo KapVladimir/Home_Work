@@ -5,7 +5,7 @@
 int getCountTwoFromArray (int [] arr)
 {
     int count = 0;
-    for (int i = 0; i < arr.GetLength(0); i++)
+    for (int i = 0; i < arr.Length; i++)
     {
         arr [i] = new Random().Next(100,1000);
         Console.Write ($"{arr [i]} ");
