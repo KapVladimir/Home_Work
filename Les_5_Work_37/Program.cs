@@ -27,34 +27,34 @@ void PrintArray (int [] incomongArray)
     Console.Write("]");
 }
 
-int [] getSumInArray( int[] incomongArray23)
+int [] getMultInArray( int[] incomongNewArray)
 {
-    if (incomongArray23.Length % 2 == 0)
+    if (incomongNewArray.Length % 2 == 0)
     {
-    int count = incomongArray23.Length - 1;
-    int oldCount = incomongArray23.Length/2;
+    int count = incomongNewArray.Length - 1;
+    int oldCount = incomongNewArray.Length/2;
     int [] resultArray = new int [oldCount];
     for (int i = 0; i < oldCount; i++)
     {
-        resultArray [i] = incomongArray23[i]+incomongArray23[count];
+        resultArray [i] = incomongNewArray[i] * incomongNewArray[count];
         count = count -1;
     }
     return resultArray;
     }
     else
     {
-    int count = incomongArray23.Length - 1;
-    int oldCount = incomongArray23.Length/2+1;
+    int count = incomongNewArray.Length - 1;
+    int oldCount = incomongNewArray.Length/2+1;
     int [] resultArray = new int [oldCount];
     for (int i = 0; i < oldCount; i++)
     {
         if (i < oldCount-1)
         {
-            resultArray [i] = incomongArray23[i]+incomongArray23[count];
+            resultArray [i] = incomongNewArray[i]*incomongNewArray[count];
         }
         else 
         {
-            resultArray [i] = incomongArray23[incomongArray23.Length/2];
+            resultArray [i] = incomongNewArray[incomongNewArray.Length/2];
         }
         count = count -1;
     }
@@ -67,10 +67,10 @@ Console.Write ("Введите длину массива: ");
 int userArray = Convert.ToInt32(Console.ReadLine());
 
 int [] currentArray = getRandomArray(userArray,1,10);
-Console.Write ($"Пользовательский массив:  ");
+Console.Write ($"Пользовательский массив: ");
 PrintArray (currentArray);
 Console.WriteLine ();
-int [] currentArray1 = getSumInArray(currentArray);
+int [] currentMultArray = getMultInArray(currentArray);
 
-Console.Write ($"Новый просуммированный массив:  ");
-PrintArray (currentArray1);
+Console.Write ($"Новый массив, произведений пар : ");
+PrintArray (currentMultArray);
