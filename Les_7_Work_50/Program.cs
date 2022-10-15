@@ -73,9 +73,7 @@ string getPozitionFromArray (int [,] arra, int userNumberPozition)
 
 int [,] generatedArray = generateArray (3,4);
 PrintArray (generatedArray);
-
 Console.Write ("Введите номер позиции: ");
 int userNumberK2 = Convert.ToInt32 (Console.ReadLine());
-
 string result = getPozitionFromArray (generatedArray, userNumberK2);
 Console.Write (result);
