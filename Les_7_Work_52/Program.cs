@@ -31,7 +31,7 @@ void PrintArray (int [,] matrix)
     Console.WriteLine();
     }
 }
-void getPozitionFromArray (int [,] arra)
+void geAverageColumFromArray (int [,] arra)
 {
         for (int j = 0; j < arra.GetLength(1); j++)
         {
@@ -46,4 +46,4 @@ void getPozitionFromArray (int [,] arra)
 }
 int [,] generatedArray = generateArray (3,4);
 PrintArray (generatedArray);
-getPozitionFromArray (generatedArray);
+geAverageColumFromArray (generatedArray);
