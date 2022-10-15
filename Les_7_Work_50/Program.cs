@@ -46,17 +46,17 @@ void PrintArray (int [,] matrix)
     }
 }
 
-string getPozitionFromArray (int [,] arra, int userNumberPozition)
+string getPositionFromArray (int [,] arra, int userNumberPosition)
 {
     int resulti = 0;
     int result = 0;
-    if (((arra.GetLength(0) +1) * (arra.GetLength(1)+1)) > userNumberPozition)
+    if (((arra.GetLength(0) +1) * (arra.GetLength(1)+1)) > userNumberPosition)
     {
         for (int i = 0; i < arra.GetLength(0); i++)
         {
             for (int j = 0; j < arra.GetLength(1); j++)
             {
-                if (userNumberPozition == resulti)
+                if (userNumberPosition == resulti)
                 {
                     result = arra [i, j];
                 }
@@ -75,5 +75,5 @@ int [,] generatedArray = generateArray (3,4);
 PrintArray (generatedArray);
 Console.Write ("Введите номер позиции: ");
 int userNumberK2 = Convert.ToInt32 (Console.ReadLine());
-string result = getPozitionFromArray (generatedArray, userNumberK2);
+string result = getPositionFromArray (generatedArray, userNumberK2);
 Console.Write (result);
