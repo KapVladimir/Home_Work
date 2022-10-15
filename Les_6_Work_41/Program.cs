@@ -5,14 +5,13 @@
 */
 
 
-int getCountUserNumber (int userNumber)
+int getCountZeroUserNumber (int userNumber)
 {
     int result = 0;
     for (int i = 0; i < userNumber; i++)
     {
         Console.Write ($"Введите число {i+1}: ");
         int UserNumberWrite = Convert.ToInt32 (Console.ReadLine()); 
-
         if (UserNumberWrite > 0)
         {
             result = result + 1;
@@ -20,9 +19,8 @@ int getCountUserNumber (int userNumber)
     }
     return result;
 }
-
 Console.Write ("Сколько чисел вы хотете ввести? ");
 int UserCountNumber = Convert.ToInt32 (Console.ReadLine());
-int countZero = getCountUserNumber (UserCountNumber);
-Console.Write ($"Количество нулевых значений: {countZero}");
+int countZero = getCountZeroUserNumber (UserCountNumber);
+Console.Write ($"Количество чисел больше 0: {countZero}");
 
