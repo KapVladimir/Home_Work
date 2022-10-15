@@ -5,22 +5,33 @@
 */
 
 
-int getCountZeroUserNumber (int userNumber)
+int [] getUserNumberForArray (int userNumber)
 {
-    int result = 0;
+    int [] arrayUser = new int[userNumber];
     for (int i = 0; i < userNumber; i++)
     {
         Console.Write ($"Введите число {i+1}: ");
         int UserNumberWrite = Convert.ToInt32 (Console.ReadLine()); 
-        if (UserNumberWrite > 0)
+        arrayUser [i] = UserNumberWrite;
+    }
+    return arrayUser;
+}
+int getCountZeroUserNumber (int [] Arra)
+{
+    int result = 0;
+    for (int i = 0; i < Arra.Length; i++)
+    {
+        if (Arra[i] > 0)
         {
-            result = result + 1;
+            result +=1;
         }
     }
     return result;
 }
+
 Console.Write ("Сколько чисел вы хотете ввести? ");
 int UserCountNumber = Convert.ToInt32 (Console.ReadLine());
-int countZero = getCountZeroUserNumber (UserCountNumber);
+int [] userArray = getUserNumberForArray (UserCountNumber);
+int countZero = getCountZeroUserNumber (userArray);
 Console.Write ($"Количество чисел больше 0: {countZero}");
 
