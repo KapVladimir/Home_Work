@@ -18,7 +18,6 @@ double [,] generateArray (int hight, int weight)
         }
     }
     return generatedArray;
-
 }
 void PrintArray (double [,] matrix)
 {
