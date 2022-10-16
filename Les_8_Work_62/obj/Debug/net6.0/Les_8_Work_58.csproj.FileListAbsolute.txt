@@ -1,0 +1,15 @@
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_8_Work_62\bin\Debug\net6.0\Les_8_Work_58.exe
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_8_Work_62\bin\Debug\net6.0\Les_8_Work_58.deps.json
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_8_Work_62\bin\Debug\net6.0\Les_8_Work_58.runtimeconfig.json
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_8_Work_62\bin\Debug\net6.0\Les_8_Work_58.dll
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_8_Work_62\bin\Debug\net6.0\Les_8_Work_58.pdb
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_8_Work_62\obj\Debug\net6.0\Les_8_Work_58.csproj.AssemblyReference.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_8_Work_62\obj\Debug\net6.0\Les_8_Work_58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_8_Work_62\obj\Debug\net6.0\Les_8_Work_58.AssemblyInfoInputs.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_8_Work_62\obj\Debug\net6.0\Les_8_Work_58.AssemblyInfo.cs
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_8_Work_62\obj\Debug\net6.0\Les_8_Work_58.csproj.CoreCompileInputs.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_8_Work_62\obj\Debug\net6.0\Les_8_Work_58.dll
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_8_Work_62\obj\Debug\net6.0\refint\Les_8_Work_58.dll
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_8_Work_62\obj\Debug\net6.0\Les_8_Work_58.pdb
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_8_Work_62\obj\Debug\net6.0\Les_8_Work_58.genruntimeconfig.cache
+C:\Users\Vladi\OneDrive\Рабочий стол\Gb\3_C#\Les_8_Work_62\obj\Debug\net6.0\ref\Les_8_Work_58.dll
