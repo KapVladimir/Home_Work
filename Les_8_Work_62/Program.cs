@@ -65,7 +65,6 @@ void FillImage4 (int row, int col, int number, int end)
     }
 }
 
-Image (pic);
 FillImage1 (0,0,1,3);
 FillImage2 (0,3,4,3);
 FillImage3 (3,3,7,0);
