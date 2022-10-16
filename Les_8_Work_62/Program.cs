@@ -67,10 +67,10 @@ void FillImage4 (int row, int col, int number, int end)
 
 Image (pic);
 FillImage1 (0,0,1,3);
-FillImage1 (1,1,13,3);
 FillImage2 (0,3,4,3);
-FillImage2 (2,2,15,3);
 FillImage3 (3,3,7,0);
-FillImage3 (2,1,16,0);
 FillImage4 (3,0,10,0);
+FillImage1 (1,1,13,3);
+FillImage2 (2,2,15,3);
+FillImage3 (2,1,16,0);
 Image (pic);
