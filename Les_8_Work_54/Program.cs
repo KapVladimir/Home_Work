@@ -57,7 +57,7 @@ void getArraySetCourse (int [,] arra)
         }
 }
 Console.WriteLine("------------------Исходный массив--------------------");
-int [,] generatedArray = generateArray (3,4);
+int [,] generatedArray = generateArray (5,4);
 PrintArray (generatedArray);
 Console.WriteLine();
 Console.WriteLine("---------------Отсортированный массив-----------------");
